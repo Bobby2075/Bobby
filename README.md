@@ -15,7 +15,7 @@
   
 </div>  
 
-### **Software and Tools**
+### **Software and Tools:**
 
 <h4> IDE: </h4>
 
