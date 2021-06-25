@@ -3,7 +3,7 @@
 
 
 
-### **Programming Languages: **
+### **Programming Languages:**
 
 <div align=left>
 
