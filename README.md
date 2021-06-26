@@ -40,6 +40,8 @@
 <img alt="" src="https://img.shields.io/badge/Adobe%20Illustrator-f79500.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=black" alt="Badge Name"/>
 <img alt="" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9494f7.svg?&style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=black" alt="Badge Name"/>
 <img alt="" src="https://img.shields.io/badge/Adobe%20After%20Effects-9494f7.svg?&style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=black" alt="Badge Name"/>
+<img alt="" src="https://img.shields.io/badge/Blender-e87d0d.svg?&style=for-the-badge&logo=Blender&logoColor=black" alt="Badge Name"/>
+<img alt="" src="https://img.shields.io/badge/Autodesk-48b5a4.svg?&style=for-the-badge&logo=Autodesk&logoColor=black" alt="Badge Name"/>
 </div>
 
 
