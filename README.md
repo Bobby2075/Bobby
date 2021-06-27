@@ -26,7 +26,7 @@
 <img alt="" src="https://img.shields.io/badge/JetBrains%20-000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=<logo-color>" alt="Jetbrains"/>
 <img alt="" src="https://img.shields.io/badge/Atom%20-0da473.svg?&style=for-the-badge&logo=atom&logoColor=<logo-color>" alt="Atom"/>
 <img alt="" src="https://img.shields.io/badge/Arduino%20-17949a.svg?&style=for-the-badge&logo=Arduino&logoColor=white" alt="Atom"/>
-  
+<img alt="" src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-9cbf33.svg?&style=for-the-badge&logo=Apache%20NetBeans%20IDE&logoColor=black" alt="Atom"/>
   
 <!--<img alt="" src="https://img.shields.io/badge/<badge>%20-%23<badge-color>.svg?&style=for-the-badge&logo=<badge>&logoColor=<logo-color>" alt="Badge Name"/>-->
 </div>
