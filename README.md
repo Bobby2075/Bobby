@@ -50,13 +50,13 @@
 
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bobby2075&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bobby2075&show_icons=true&theme=algolia)
   
 </div>
 
 <div align=center>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobby2075&langs_count=8&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobby2075&langs_count=8&theme=algolia)
 
 </div>
 
