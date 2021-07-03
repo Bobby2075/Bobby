@@ -1,4 +1,4 @@
-<h1 align=center> Hello i'm Bobby 🕶️ </h1>
+<h1 align=center> Hello i'm Bobby 👋 </h1>
 <p align=center> I'm a danish student 💻 </p>
 
 
