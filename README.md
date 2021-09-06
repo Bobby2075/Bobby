@@ -1,5 +1,6 @@
 <h1 align=center> Hello i'm Bobby 👋 </h1>
 <p align=center> I'm a danish student 💻 </p>
+<p align=center> Currently im working on a website for a school project <br /> Feel free to message me on discord about any of the things i've made <br /> Discord: Bobby#2805 </p>
 
 
 
