@@ -14,6 +14,7 @@
 <img alt="" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&&logoColor=white" alt="C++"/>
 <img alt="" src="https://img.shields.io/badge/html5%20-dd4b25.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img alt="" src="https://img.shields.io/badge/lua%20-00007c.svg?&style=for-the-badge&logo=lua&logoColor=<logo-color>" alt="LUA"/>
+<img alt="" src="https://img.shields.io/badge/react%20-00007c.svg?&style=for-the-badge&logo=react&logoColor=<logo-color>" alt="REACT"/>
   
 </div>  
 
